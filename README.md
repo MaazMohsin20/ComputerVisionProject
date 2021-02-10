@@ -17,6 +17,6 @@ You can simply train a model with `main.py`.
 4. Run the `main.py` file
     - e.g. `python main.py`
     
-## To test the Model you can compile the model and load wieghts using 
-TestWeightsModel.py
-need to update the wightPath variable accordingly
+## Test Model
+Model can be tested by compiling model and load weights by assigning valid weight file path to wightpath in TestWeightsModel.py
+
